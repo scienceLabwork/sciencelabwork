@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Rudra 👋
 
-<!--
-**scienceLabwork/sciencelabwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- Software Engineer
+- AI / ML / Backend
+- Building real products, not toy projects
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+![GitHub Stats](https://github-stats-own.vercel.app/api?username=sciencelabwork&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=sciencelabwork&theme=tokyonight)
+
+## 🛠️ Tech Stack
+Python • Java • Swift • AWS • ML • APIs
