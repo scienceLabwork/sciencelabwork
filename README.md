@@ -9,16 +9,6 @@ My focus is simple: build reliable systems, understand the data behind them, and
 
 ---
 
-## What I Actually Do
-- Design and build **backend systems & APIs** that don’t fall apart under load  
-- Work hands-on with **ML models** (training, fine-tuning, inference, optimization)  
-- Turn vague ideas into **shippable products**  
-- Care deeply about **performance, correctness, and clarity**
-
-I enjoy problems where the answer isn’t obvious and trade-offs matter.
-
----
-
 ## Tech I’m Comfortable With
 **Languages**
 - Python, Java, Swift  
