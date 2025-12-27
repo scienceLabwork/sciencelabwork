@@ -9,7 +9,7 @@ My focus is simple: build reliable systems, understand the data behind them, and
 
 ---
 
-## 🧠 What I Actually Do
+## What I Actually Do
 - Design and build **backend systems & APIs** that don’t fall apart under load  
 - Work hands-on with **ML models** (training, fine-tuning, inference, optimization)  
 - Turn vague ideas into **shippable products**  
@@ -19,7 +19,7 @@ I enjoy problems where the answer isn’t obvious and trade-offs matter.
 
 ---
 
-## ⚙️ Tech I’m Comfortable With
+## Tech I’m Comfortable With
 **Languages**
 - Python, Java, Swift  
 
@@ -39,30 +39,21 @@ I enjoy problems where the answer isn’t obvious and trade-offs matter.
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-stats-own.vercel.app/api?username=sciencelabwork&show_icons=true&theme=tokyonight)
+## GitHub Stats
+![GitHub Stats](https://github-stats-own.vercel.app/api?username=sciencelabwork&show_icons=true)
 
-## 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=sciencelabwork&theme=tokyonight)
+## Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=sciencelabwork)
 
 ---
 
-## 🛠️ Tech Stack Badges
+## Tech Stack
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=oracle)
 ![Swift](https://img.shields.io/badge/Swift-000?style=for-the-badge&logo=swift)
 ![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000?style=for-the-badge)
 ![APIs](https://img.shields.io/badge/APIs-000?style=for-the-badge)
-
----
-
-## 🧩 How I Think About Engineering
-- Simple > clever  
-- Working systems > theoretical perfection  
-- Clear trade-offs > vague optimism  
-
-I’d rather ship something solid and improve it than chase abstract “best practices” without context.
 
 ---
 
