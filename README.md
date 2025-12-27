@@ -32,9 +32,6 @@ My focus is simple: build reliable systems, understand the data behind them, and
 ## GitHub Stats
 ![GitHub Stats](https://github-stats-own.vercel.app/api?username=sciencelabwork&show_icons=true)
 
-## Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=sciencelabwork)
-
 ---
 
 ## Tech Stack
