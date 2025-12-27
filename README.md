@@ -53,7 +53,7 @@ My focus is simple: build reliable systems, understand the data behind them, and
 ---
 
 ## 🤝 Let’s Connect
-If you’re working on something serious — tech, product, or research —  
+If you’re working on something serious tech, product, or research 
 and you value clear thinking over buzzwords, we’ll get along.
 
 ⭐ If any of my work helps you, feel free to star a repo.
