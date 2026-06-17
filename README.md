@@ -7,6 +7,8 @@ Not demos. Not toy projects. Real systems that handle data, users, and constrain
 I sit at the intersection of **software engineering, machine learning, and product thinking**.  
 My focus is simple: build reliable systems, understand the data behind them, and make decisions that scale.
 
+![](https://komarev.com/ghpvc/?username=sciencelabwork)
+
 ---
 
 ## Tech I’m Comfortable With
